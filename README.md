@@ -1,4 +1,4 @@
-<center><font size=10>ABOUT ME</font></center>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=linuxdeepin007&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 <img src="https://img.shields.io/github/languages/code-size/linuxdeepin007/code.github.io?style=flat" /> <img src="https://img.shields.io/github/commit-activity/y/linuxdeepin007/code.github.io?color=purple&style=flat" /><br><img src="https://img.shields.io/github/last-commit/linuxdeepin007/code.github.io?color=%23154&style=flat" /> <img src="https://img.shields.io/github/directory-file-count/linuxdeepin007/code.github.io?color=green&style=flat" /><img src="https://img.shields.io/github/stars/linuxdeepin007?style=social" /> <img src="https://img.shields.io/github/followers/linuxdeepin007?style=social" />
 
