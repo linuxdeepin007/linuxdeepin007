@@ -1,3 +1,8 @@
+<center><font size=10>ABOUT ME</font></center>
+
+<img src="https://img.shields.io/github/languages/code-size/linuxdeepin007/code.github.io?style=flat" /> <img src="https://img.shields.io/github/commit-activity/y/linuxdeepin007/code.github.io?color=purple&style=flat" /><br><img src="https://img.shields.io/github/last-commit/linuxdeepin007/code.github.io?color=%23154&style=flat" /> <img src="https://img.shields.io/github/directory-file-count/linuxdeepin007/code.github.io?color=green&style=flat" /><img src="https://img.shields.io/github/stars/linuxdeepin007?style=social" /> <img src="https://img.shields.io/github/followers/linuxdeepin007?style=social" />
+
+
 - 收入一般
 - 工资两千
 - 柴米油盐
